@@ -8,6 +8,14 @@ This is just another command line utility for GitHub that allows you to:
 - Open your pull requests page.
 - Open your issues page.
 
+# Installation
+
+Install / Uninstall:
+```
+sudo make install/uninstall
+```
+
+
 # Examples
 
 ```sh
