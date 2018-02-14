@@ -1,6 +1,6 @@
 # hubo
 
-hubo == "git(hub) (o)pen"
+### hubo == "git(hub) (o)pen"
 
 This is just another command line utility for GitHub that allows you to:
 - Quickly open your repository.
@@ -15,8 +15,7 @@ $ hubo
 # opens https://github.com/REMOTE_USER/REPO/tree/BRANCH
 
 $ hubo [path] [line number]
-# Example:
-# $ hubo src/myfile.js 34
+# EX: $ hubo src/myfile.js 34
 # opens https://github.com/REMOTE_USER/REPO/blob/BRANCH/src/myfile.js#L34
 
 $ hubo pr
